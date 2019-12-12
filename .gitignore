@@ -1,6 +1,12 @@
-#
+# MoveiPy outputs
 *.mp4
 *.mov
+*.gif
+*.png
+*.jpg
+*.jpeg
+*.PNG
+*.JPG
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
